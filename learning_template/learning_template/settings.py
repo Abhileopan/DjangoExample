@@ -25,7 +25,7 @@ SECRET_KEY = 's4j62e_fo@&%((uz5lt9$k%2@pzqsn-d(=#!v&j22z%9$y*n$m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['abhileopan.pythonanywhere.com']
 
 
 # Application definition
